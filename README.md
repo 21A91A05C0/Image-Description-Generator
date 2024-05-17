@@ -12,7 +12,7 @@ The Image Description Generator leverages the power of deep learning, specifical
 - Jaya
 - Sowmya Reddy
 - Sadwika
-- Laitha
+- Lalitha
 - MahaLakshmi
 
 ## Tools Used
@@ -27,7 +27,7 @@ The Image Description Generator leverages the power of deep learning, specifical
 ## Technologies Used
 **AI/ML (Deep Learning)
 **Web design
-**Cloud
+
 
 ## Installation
 To get started with the Image Description Generator, follow these steps:
